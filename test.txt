@@ -1,3 +1,2 @@
 This is a test
-Test branch devis is quick & fast
-
+Test branch devis is quick AND fast
